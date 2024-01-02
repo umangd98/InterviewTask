@@ -1,4 +1,7 @@
-I need to be able to find profiles with those criterias :
+Write JS code to accomplish the following using Meta APIs - 
+
+I need to be able to find Instagram profiles with those criterias :
+
 Follower count between 80000 and 140000
 Average like per post 3000
 Engagement rate sup > 20% (like + share +comments / followers)
